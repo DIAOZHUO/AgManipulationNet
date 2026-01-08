@@ -17,3 +17,11 @@ This is an example where AI models analyze the scanned images to identify indivi
 
 This example uses the Model4 architecture, which predicts the success of a manipulation event based on the I and Z curves obtained during the previous atomic manipulation.
 When the model outputs True, the system automatically terminates the atomic manipulation phase and proceeds to perform a topographic scan to verify the manipulation result.
+
+### Citations
+
+We will be appreciated if you can cite our work!
+
+Junya Okuyama, Zhuo Diao, Hayato Yamashita, and Masayuki Abe
+Nano Letters 2025 25 (51), 17771-17777
+(https://doi.org/10.1021/acs.nanolett.5c04982)
